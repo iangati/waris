@@ -1,12 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
     <channel>
+        <title>Faraid Pro Updates</title>
         <item>
             <title>Versi 1.1.0</title>
-            <sparkle:releaseNotesLink>https://anda.com/releasenotes.html</sparkle:releaseNotesLink>
-            <enclosure url="https://anda.com/aplikasi-terbaru.apk" 
-                       sparkle:version="1.1.0" 
-                       sparkle:os="android" />
+            <description>Pembaruan fitur PDF dan Riwayat</description>
+            <pubDate>Thu, 08 Jan 2026 12:00:00 +0000</pubDate>
+            <enclosure 
+                url="https://domain-anda.com/app-v1.1.0.apk" 
+                sparkle:version="1.1.0" 
+                sparkle:os="android" />
         </item>
     </channel>
 </rss>
